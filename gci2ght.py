@@ -1,5 +1,5 @@
 def get_course_name(course_no):
-    course_list = ["BabyLuigi", "Peach", "Daisy", "Luigi", "Mario", "Yoshi", 
+    course_list = ["BabyLuigi", "Peach", "Daisy", "Luigi", "Mario", "Yoshi", "",
     "Nokonoko", "Patapata", "Waluigi", "Wario", "Diddy", "Donkey", "Koopa", 
     "you shouldn't get this", "Rainbow", "Desert", "Snow"]
     return course_list[course_no - 33]
